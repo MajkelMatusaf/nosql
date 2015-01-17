@@ -65,7 +65,7 @@ Lista:
 
 1. Budka, Kamil. [Elasticsearch](https://bitbucket.org/superUnknown/elasticsearch/overview)
 1. Denejko, Wojciech. [Anagramy+Getglue_IMDB+MMS+MapReduce](https://bitbucket.org/wdenejko/zadanie3/overview)
-1. Dunikowski, Jacek. [Zadanie 3](https://github.com/jaca22/zad3)
+1. Dunikowski, Jacek. [Anagramy](https://github.com/jaca22/zad3)
 1. Franckiewicz, Tomasz. [MongoDB+MMS+Dummy_json](https://github.com/tfranckiewicz/nosql/tree/zadanie3)
 1. Falęcki, Jacek. [Zadanie 3](https://github.com/jfalecki/projekty)
 1. Gonera, Ewa [Zadanie 3 - MapReduce Anagramy](https://github.com/Estee/NoSQL/blob/master/Zadanie3.md) // 404 – page not found
