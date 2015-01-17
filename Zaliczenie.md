@@ -53,7 +53,7 @@ Legenda: [1M, 2-] oznacza, że zadanie 1. ma usterkę M i brak zadania 2:
 1. [Michalski, Mateusz](https://github.com/matismatis93/neo4j "neo4j private repo")
    - [Zadanie 1 i 2](https://github.com/matismatis93/MongoDB)
 1. Paprocki, Adam.
-   - [Zadanie 1 i 2](/)
+   - [Zadanie 1 i 2](https://bitbucket.org/wdenejko/zadanie3/overview)
 1. [Pająkowski, Adrian](https://github.com/apajakowski/neo4j "neo4j public repo")
    - [Zadanie 1](https://github.com/apajakowski/zad1)
    - [Zadanie 2](https://github.com/apajakowski/zad2)
