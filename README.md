@@ -68,8 +68,8 @@ Lista:
 1. Dunikowski, Jacek. [Zadanie 3](https://github.com/jaca22/zad3)
 1. Franckiewicz, Tomasz. [MongoDB+MMS+Dummy_json](https://github.com/tfranckiewicz/nosql/tree/zadanie3)
 1. Falęcki, Jacek. [Zadanie 3](https://github.com/jfalecki/projekty)
-1. Gonera, Ewa [Zadanie 3 - MapReduce Anagramy](https://github.com/Estee/NoSQL/blob/master/Zadanie3.md)
-1. Kalarus, Marcin. [Anagramy i Wikipedia - MapReduce](https://github.com/mkalarus/Anagramy_i_wikipedia)
+1. Gonera, Ewa [Zadanie 3 - MapReduce Anagramy](https://github.com/Estee/NoSQL/blob/master/Zadanie3.md) // 404 – page not found
+1. Kalarus, Marcin. [Anagramy i Wikipedia – MapReduce](https://github.com/mkalarus/Anagramy_i_wikipedia)
 1. Massalska, Emilia. [Zadanie 3](https://github.com/emassalska/mapreduce)
 1. Mazur, Michał. [Zadanie 3](https://github.com/MajkelMatusaf/Zadanie3NoSql)
 1. Michalski, Mateusz [Zadanie 3](https://github.com/matismatis93/MapReduce)
