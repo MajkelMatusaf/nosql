@@ -78,6 +78,7 @@ Legenda: [1M, 2-] oznacza, że zadanie 1. ma usterkę M i brak zadania 2:
 1. Duchna, Przemysław
    - [Zadanie 1](https://github.com/pduchna/Cwiczenia)
 1. Mazur, Michał
+   - [Zadanie 1 & 2 ](https://github.com/MajkelMatusaf/NoSQL-zad-1-2)
 1. Miszczykowski, Mariusz
 1. Rawicki, Wojciech
 1. Zielke, Adam
